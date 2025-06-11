@@ -2,6 +2,7 @@
 <p align="center">code • linux • terminal</p>
 
 ---
+## About Me
 
 👋 hey, i'm **networm**  
 🖥️ i live in the terminal  
@@ -9,6 +10,9 @@
 🎮 i write code and break things for fun  
 🐧 memes, shell, and system-level chaos
 
+--Social Network--
+Tiktok^: https://www.tiktok.com/@networm00 / @networm00
+Reddit^: https://www.reddit.com/user/networm0 / @networm0
 ---
 
 ### 🛠 tech stack
