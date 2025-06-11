@@ -2,7 +2,6 @@
 <p align="center">code • linux • terminal</p>
 
 ---
-## About Me
 
 👋 hey, i'm **networm**  
 🖥️ i live in the terminal  
@@ -10,9 +9,6 @@
 🎮 i write code and break things for fun  
 🐧 memes, shell, and system-level chaos
 
---Social Network--
-Tiktok^: https://www.tiktok.com/@networm00 / @networm00
-Reddit^: https://www.reddit.com/user/networm0 / @networm0
 ---
 
 ### 🛠 tech stack
@@ -40,3 +36,12 @@ Reddit^: https://www.reddit.com/user/networm0 / @networm0
 
 ---
 
+### 🌐 Social Network
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@networm00)  
+**TikTok**: [@networm00](https://www.tiktok.com/@networm00)
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/networm0)  
+**Reddit**: [@networm0](https://www.reddit.com/user/networm0)
+
+---
