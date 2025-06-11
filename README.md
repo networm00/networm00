@@ -18,3 +18,4 @@ OS: Arch Linux
 Editor: Neovim / VSCode
 Shell: zsh
 Languages: Python, JS/TS, Bash
+Main Launguages^: C++, java
