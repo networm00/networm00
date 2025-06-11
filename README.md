@@ -14,7 +14,7 @@
 ### 🛠 tech stack
 
 ```bash
-OS: Arch Linux
+OS: Arch Linux / Windows
 Editor: Neovim / VSCode
 Shell: zsh
 Languages: Python, JS/TS, Bash
